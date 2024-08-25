@@ -1,4 +1,4 @@
-# Procedural_Bug_Movement
+# Procedural Insect Movement
 
 This Unity project implements a procedural body and leg controller for a multi-legged character, like a spider or insect. The system dynamically aligns and moves the character’s body based on the terrain, while also allowing player control over movement and rotation.
 
@@ -20,4 +20,4 @@ https://github.com/user-attachments/assets/e71eae58-498e-4833-897d-bceaf9ab5074
 
 1. Attach the `BodyController` script to your creature’s body.
 2. Set up your legs in the Inspector.
-3. Play and control your creature with WASD!
+3. Play and control your creature with WASD.
